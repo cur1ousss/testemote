@@ -4,9 +4,7 @@
 
 Website to find Beverages recipe using React and React Router 
 
-<h3 align="center"> <b> [Recipe Search](https://jasonbch.github.io/business/ ) </b> </h3>
-
-    https://jasonbch.github.io/business/  
+<h3 align="center"> <b> https://jasonbch.github.io/business/  </b> </h3>
 
 
 ![ScreenShot](https://i.imgur.com/YPBcRvT.png "ScreenShot")
@@ -15,11 +13,12 @@ Website to find Beverages recipe using React and React Router
 The user can search recipe using the search bar.
 Sample of Specific Recipe looks similar to one shown below :
 
-<img src="/misc_images/CoffeVodkaRecipe.png">
+<img src="misc_images/CoffeVodkaRecipe.png">
+
 
 The website shows all the recipes that contain the keyword.
 The feature for multiple keyword is to be implemented.
 
 :beer: Hope You Find Some New Recipes :beers:
 
-<img src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" width=400>
+<img align="center" src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" width=400>
