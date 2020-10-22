@@ -21,4 +21,4 @@ The feature for multiple keyword is to be implemented.
 
 :beer: Hope You Find Some New Recipes :beers:
 
-<img align="center" src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" width=400>
+<p align="center"><img src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" width=400></p>
